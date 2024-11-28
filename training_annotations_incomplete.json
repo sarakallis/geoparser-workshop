@@ -1,0 +1,1150 @@
+{
+    "session_id": "training_annotations",
+    "created_at": "2024-11-27T18:22:47.199603",
+    "last_updated": "2024-11-28T15:36:20.034604",
+    "gazetteer": "geonames",
+    "settings": {
+        "one_sense_per_discourse": false,
+        "auto_close_annotation_modal": false
+    },
+    "documents": [
+        {
+            "filename": "532231748357476353.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @defenceimages: .@RoyalAirForceUK Tornado aircrews of 31 Sqn have left Afghanistan for the final time. Picture: Cpl Andrew Morris http:/�",
+            "toponyms": [
+                {
+                    "text": "Afghanistan",
+                    "start": 74,
+                    "end": 85,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "485952284962979840.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @WGCI: Have any personal stories regarding gun violence in Chicago? Call 1-866-594-4673 to join in on the #PutTheGunsDown forum.",
+            "toponyms": [
+                {
+                    "text": "Chicago",
+                    "start": 62,
+                    "end": 69,
+                    "loc_id": "4887398"
+                }
+            ]
+        },
+        {
+            "filename": "505279045282439168.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "@meninoroxo Putin Commends Separatist Militias in Ukraine: Addressing the rebels directly, the Russian preside... http://t.co/8o3XttRc4C",
+            "toponyms": [
+                {
+                    "text": "Ukraine",
+                    "start": 50,
+                    "end": 57,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "559561975512825856.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @MlNDBLOWINGS: The town of Manchester, South Dakota (est. 1881) was completely destroyed by a tornado in 2003 and never rebuilt.",
+            "toponyms": [
+                {
+                    "text": "Manchester",
+                    "start": 30,
+                    "end": 40,
+                    "loc_id": ""
+                },
+                {
+                    "text": "South Dakota",
+                    "start": 42,
+                    "end": 54,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "501247681532928000.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "USGS says Yellowstone earthquake hazard greater than previously thought - The Missoulian http://t.co/9QduXS5QNA",
+            "toponyms": [
+                {
+                    "text": "Yellowstone",
+                    "start": 10,
+                    "end": 21,
+                    "loc_id": "5843642"
+                }
+            ]
+        },
+        {
+            "filename": "515864015428653056.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Sky news: Iraq: British Jets On First Combat Mission - Two Tornado GR4s are over northern Iraq and the pilots are ... http://t.co/d8fh8jxxBn",
+            "toponyms": [
+                {
+                    "text": "Iraq",
+                    "start": 10,
+                    "end": 14,
+                    "loc_id": "99237"
+                },
+                {
+                    "text": "Iraq",
+                    "start": 90,
+                    "end": 94,
+                    "loc_id": "99237"
+                }
+            ]
+        },
+        {
+            "filename": "514520286163529728.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "'Flood Wall Street' Activists Won't Let the Markets Forget the Climate: \nNEW YORK � On the heels of Sunday's P... http://t.co/VlhT2z8N6K",
+            "toponyms": [
+                {
+                    "text": "NEW YORK",
+                    "start": 73,
+                    "end": 81,
+                    "loc_id": "5128581"
+                }
+            ]
+        },
+        {
+            "filename": "503950297614802945.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @PeopIe: Man in Ukraine plays the piano to help calm down a riot. http://t.co/U176Qypqab",
+            "toponyms": [
+                {
+                    "text": "Ukraine",
+                    "start": 19,
+                    "end": 26,
+                    "loc_id": "690791"
+                }
+            ]
+        },
+        {
+            "filename": "522676245017161728.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @samwestrop: A small but hardy group of 20 human rights activists protest the regime-sponsored  Europe-Iran Forum in London. http://t.co�",
+            "toponyms": [
+                {
+                    "text": "London",
+                    "start": 120,
+                    "end": 126,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "559880545757581313.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "\"Measles Outbreak That Began at Disneyland Grows to 87 Cases\" by THE ASSOCIATED PRESS via NYT http://t.co/lBq5NkHdKm",
+            "toponyms": [
+                {
+                    "text": "Disneyland",
+                    "start": 32,
+                    "end": 42,
+                    "loc_id": "5343229"
+                }
+            ]
+        },
+        {
+            "filename": "499722940892463105.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "I'm curious about whether the police-initiated violence in Ferguson is from the Ferguson PD or the SWAT team that was brought in",
+            "toponyms": [
+                {
+                    "text": "Ferguson",
+                    "start": 59,
+                    "end": 67,
+                    "loc_id": "4386387"
+                }
+            ]
+        },
+        {
+            "filename": "556452046568955904.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "BBC News - Charlie Hebdo: Niger protesters set churches on fire http://t.co/pxVXUTvLDw I hope the Pope has something to say about this!",
+            "toponyms": [
+                {
+                    "text": "Niger",
+                    "start": 26,
+                    "end": 31,
+                    "loc_id": "2440476"
+                }
+            ]
+        },
+        {
+            "filename": "558641434073391104.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @kmichelle: Good morning ATL and Jacksonville Rebels!!! Tickets for the #MyTwistedMindTour are officially on sale NOW!! Will you be ther�",
+            "toponyms": [
+                {
+                    "text": "ATL",
+                    "start": 28,
+                    "end": 31,
+                    "loc_id": "4180439"
+                },
+                {
+                    "text": "Jacksonville",
+                    "start": 36,
+                    "end": 48,
+                    "loc_id": "4160021"
+                }
+            ]
+        },
+        {
+            "filename": "490527101439590400.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @David_EHG: Media reporting 15,000 marching in London to protest the violence in #Gaza. This is a very large demonstration. http://t.co/�",
+            "toponyms": [
+                {
+                    "text": "London",
+                    "start": 50,
+                    "end": 56,
+                    "loc_id": ""
+                },
+                {
+                    "text": "Gaza",
+                    "start": 85,
+                    "end": 89,
+                    "loc_id": "281132"
+                }
+            ]
+        },
+        {
+            "filename": "496734176935038976.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "The Daily Word in methane craters, an officer-involved shooting and the Central Avenue underpass flood problem:... http://t.co/UzvaeM7ouc",
+            "toponyms": [
+                {
+                    "text": "Central Avenue",
+                    "start": 72,
+                    "end": 86,
+                    "loc_id": "10284146"
+                }
+            ]
+        },
+        {
+            "filename": "555001838274355201.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @hoop_group_: Show up to Hatchett Coliseum tonight at 730 when the Rebels tip off against Spain Park",
+            "toponyms": [
+                {
+                    "text": "Hatchett Coliseum",
+                    "start": 28,
+                    "end": 45,
+                    "loc_id": "4829764"
+                }
+            ]
+        },
+        {
+            "filename": "523157372911357952.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Hong Kong police have clashed with pro-democracy protesters after the forced clearing of a protest site brought more�",
+            "toponyms": [
+                {
+                    "text": "Hong Kong",
+                    "start": 0,
+                    "end": 9,
+                    "loc_id": "1819729"
+                }
+            ]
+        },
+        {
+            "filename": "556543259732758528.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "What Africa Really Needs To Fight Ebola: Lasrick writes Laura Kahn, a physician on the research staff of Princ... http://t.co/D3au2N5POB",
+            "toponyms": [
+                {
+                    "text": "Africa",
+                    "start": 5,
+                    "end": 11,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "509083990327062528.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Pakistan is in pain... I God please help the flood victims",
+            "toponyms": [
+                {
+                    "text": "Pakistan",
+                    "start": 0,
+                    "end": 8,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "512422141333999616.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @Dannymakkisyria: Its akward that Steven Sotloff was sold to #ISIS by \"Moderate Rebels\", the same ones that #Obama is arming. #Syria",
+            "toponyms": [
+                {
+                    "text": "Syria",
+                    "start": 130,
+                    "end": 135,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "514837492541833216.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "CDC warns of mystery #virus outbreak. #TB #measles Freakin #POLIO - As #ObamaFail scatters illegal thru the #US ! http://t.co/Y0FwGUw9K2\"",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 109,
+                    "end": 111,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "521964359493615616.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @GAFollowers: A tornado watch has been reissued for most of North GA. The watch for these counties is in effect until 11:00 am: http://t�",
+            "toponyms": [
+                {
+                    "text": "North GA",
+                    "start": 63,
+                    "end": 71,
+                    "loc_id": "4188287"
+                }
+            ]
+        },
+        {
+            "filename": "516045003840581632.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "@JudgeJeanine The FBI should rule the beheading an act of terrorism not workplace  violence. This should call 4 the death penalty in the US",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 137,
+                    "end": 139,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "511575758557675520.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @cnnhealth: Have you traveled to #Seattle lately? Health officials investigating #measles case at the airport: http://t.co/3z206wuoTv",
+            "toponyms": [
+                {
+                    "text": "Seattle",
+                    "start": 37,
+                    "end": 44,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "521888245429567488.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @Coach_Giron: Wow 7.4 earthquake and tsunami warnings in El Salvador within the last 10 minutes...hope everyone is alright and nothing m�",
+            "toponyms": [
+                {
+                    "text": "El Salvador",
+                    "start": 60,
+                    "end": 71,
+                    "loc_id": "3585968"
+                }
+            ]
+        },
+        {
+            "filename": "516393138420981760.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @AP: US doctor exposed to Ebola virus admitted to The National Institutes of Health hospital isolation unit http://t.co/p5HB1HKMry",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 8,
+                    "end": 10,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "514627113593212928.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Earthquake shakes Newcastle: An updated map of where the earthquake struck and where the tremor was felt. Pic:... http://t.co/dsaRRBGZvu",
+            "toponyms": [
+                {
+                    "text": "Newcastle",
+                    "start": 18,
+                    "end": 27,
+                    "loc_id": "7839758"
+                }
+            ]
+        },
+        {
+            "filename": "537275205681692672.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @Riddwane: I've just got an information, that police in Jos have opened fire on the protesting UNIJOS students @omojuwa @Ayourb",
+            "toponyms": [
+                {
+                    "text": "Jos",
+                    "start": 59,
+                    "end": 62,
+                    "loc_id": "2335953"
+                }
+            ]
+        },
+        {
+            "filename": "495616014747725824.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @dandrezner: Excellent @nytimes look at life in Slovyansk after the separatist rebels left (http://t.co/gBOog3b56P. Two things stand out�",
+            "toponyms": [
+                {
+                    "text": "Slovyansk",
+                    "start": 51,
+                    "end": 60,
+                    "loc_id": "693468"
+                }
+            ]
+        },
+        {
+            "filename": "490135006967115776.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @HuffingtonPost: Heartbreaking photograph of one father's grief reveals the real cost of violence in Gaza http://t.co/MGyLFjGTB2 http://�",
+            "toponyms": [
+                {
+                    "text": "Gaza",
+                    "start": 104,
+                    "end": 108,
+                    "loc_id": "281132"
+                }
+            ]
+        },
+        {
+            "filename": "533454535306403840.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @BuzzFeedStorm: BREAKING: Magnitude-7.3 earthquake strikes off the coast of Indonesia; hazardous tsunami waves possible, PTWC reports ht�",
+            "toponyms": [
+                {
+                    "text": "Indonesia",
+                    "start": 79,
+                    "end": 88,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "556890017105469440.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "? RT @MrCocoyam: Why are you surprised Asamoah Gyan has malaria?  The mosquito that bit him was his ex...Ghana girls, smh",
+            "toponyms": [
+                {
+                    "text": "Ghana",
+                    "start": 105,
+                    "end": 110,
+                    "loc_id": "2300660"
+                }
+            ]
+        },
+        {
+            "filename": "530858671496888321.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "VOA: US, Liberia Open 1st Ebola Treatment Unit for Health Workers: The U.S. and Liberian governments h... http://t.co/thV050yEvb #Africa",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 5,
+                    "end": 7,
+                    "loc_id": ""
+                },
+                {
+                    "text": "Liberia",
+                    "start": 9,
+                    "end": 16,
+                    "loc_id": ""
+                },
+                {
+                    "text": "U.S.",
+                    "start": 71,
+                    "end": 75,
+                    "loc_id": ""
+                },
+                {
+                    "text": "Africa",
+                    "start": 130,
+                    "end": 136,
+                    "loc_id": ""
+                }
+            ]
+        },
+        {
+            "filename": "514506493404532736.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Niiiiice. Got Malaria in the US..it was \"hidden\" ?",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 29,
+                    "end": 31,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "550004651719131136.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @1310news: All-news afternoon is on the air! Top stories: more flu in #Ottawa, latest on gang shootings, missing plane #ottnews",
+            "toponyms": [
+                {
+                    "text": "Ottawa",
+                    "start": 74,
+                    "end": 80,
+                    "loc_id": "6094817"
+                }
+            ]
+        },
+        {
+            "filename": "500463231610388480.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "How long will it take to bring the Ebola crisis in West Africa under control? http://t.co/CUArPcTL2o #Africa",
+            "toponyms": [
+                {
+                    "text": "West Africa",
+                    "start": 51,
+                    "end": 62,
+                    "loc_id": "7729885"
+                },
+                {
+                    "text": "Africa",
+                    "start": 102,
+                    "end": 108,
+                    "loc_id": "6255146"
+                }
+            ]
+        },
+        {
+            "filename": "528713435438006273.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Mass protest urged in Burkina Faso: Opposition parties in Burkina Faso call for a mass rally in protest at the... http://t.co/TJBvOPRYvL",
+            "toponyms": [
+                {
+                    "text": "Burkina Faso",
+                    "start": 22,
+                    "end": 34,
+                    "loc_id": "2361809"
+                },
+                {
+                    "text": "Burkina Faso",
+                    "start": 58,
+                    "end": 70,
+                    "loc_id": "2361809"
+                }
+            ]
+        },
+        {
+            "filename": "559019337185783809.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @hiltzikm: Will the Disneyland measles crisis turn the anti-vaccination crowd into public enemies? It should: http://t.co/oEhQ3kAmUB",
+            "toponyms": [
+                {
+                    "text": "Disneyland",
+                    "start": 23,
+                    "end": 33,
+                    "loc_id": "5343229"
+                }
+            ]
+        },
+        {
+            "filename": "555726244273074177.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @albd1971: What BNP Jamaat does to people in the name of political movement: 9 January 2014 \n#Bangladesh #Politics #Violence http://t.co�",
+            "toponyms": [
+                {
+                    "text": "Bangladesh",
+                    "start": 97,
+                    "end": 107,
+                    "loc_id": "1210997"
+                }
+            ]
+        },
+        {
+            "filename": "548148080801878016.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @ktmkomuter: Torrential downpour in the Klang Valley resulted in flash flooding near Bt Tiga stn. Svc is delayed.Waiting flood water to �",
+            "toponyms": [
+                {
+                    "text": "Bt Tiga stn",
+                    "start": 88,
+                    "end": 99,
+                    "loc_id": "1739590"
+                }
+            ]
+        },
+        {
+            "filename": "521784084670857216.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @ReutersUS: Activist Cornel West was in Ferguson today in a protest against the city's police department. http://t.co/rWjhF8AM3W http://�",
+            "toponyms": [
+                {
+                    "text": "Ferguson",
+                    "start": 43,
+                    "end": 51,
+                    "loc_id": "4386387"
+                }
+            ]
+        },
+        {
+            "filename": "559185287952072704.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @AdityaRajKaul: Heartbreaking photo from Cairo. Activist Shaimaa Sabagh killed during a protest. In the arms of her husband. #RIP http:/�",
+            "toponyms": [
+                {
+                    "text": "Cairo",
+                    "start": 44,
+                    "end": 49,
+                    "loc_id": "360630"
+                }
+            ]
+        },
+        {
+            "filename": "560891412036591616.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Rebels Press Assault in Eastern Ukraine: Fighting continued Thursday in the northern sector of the former� http://t.co/8szA7KaFMi",
+            "toponyms": [
+                {
+                    "text": "Eastern Ukraine",
+                    "start": 24,
+                    "end": 39,
+                    "loc_id": "709717"
+                }
+            ]
+        },
+        {
+            "filename": "531537760130437121.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "The NYC bus is on our way home to bring Ebola to our CPA favs!",
+            "toponyms": [
+                {
+                    "text": "NYC",
+                    "start": 4,
+                    "end": 7,
+                    "loc_id": "5128581"
+                }
+            ]
+        },
+        {
+            "filename": "502063217531973632.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @BBCWorld: The moment a tornado tore up a beach cafe in Italy http://t.co/FJTbm5fgxQ http://t.co/4cLWEqpYVi",
+            "toponyms": [
+                {
+                    "text": "Italy",
+                    "start": 59,
+                    "end": 64,
+                    "loc_id": "3175395"
+                }
+            ]
+        },
+        {
+            "filename": "508949574254198784.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Nigeria records another Ebola Case in Lagos:    The Federal government has confirmed that Nigeria has recorded... http://t.co/AezmIlzd9C",
+            "toponyms": [
+                {
+                    "text": "Nigeria",
+                    "start": 0,
+                    "end": 7,
+                    "loc_id": "2328926"
+                },
+                {
+                    "text": "Lagos",
+                    "start": 38,
+                    "end": 43,
+                    "loc_id": "2332453"
+                },
+                {
+                    "text": "Nigeria",
+                    "start": 90,
+                    "end": 97,
+                    "loc_id": "2328926"
+                }
+            ]
+        },
+        {
+            "filename": "559411719944929280.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @HiddleDeeDee: 8 turns 9 today. He was born the day Hurr Katrina hit. 6 was born when a major earthquake hit China. \n\nMoral of the story�",
+            "toponyms": [
+                {
+                    "text": "China",
+                    "start": 112,
+                    "end": 117,
+                    "loc_id": "1814991"
+                }
+            ]
+        },
+        {
+            "filename": "543933705421475841.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "PTI Faisalabad protest: Another shooter arrested: FAISALABAD: The city police arrested� http://t.co/OdclS9GjrF",
+            "toponyms": [
+                {
+                    "text": "Faisalabad",
+                    "start": 4,
+                    "end": 14,
+                    "loc_id": "1179400"
+                },
+                {
+                    "text": "FAISALABAD",
+                    "start": 50,
+                    "end": 60,
+                    "loc_id": "1179400"
+                }
+            ]
+        },
+        {
+            "filename": "559729148219105280.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @taramoriarty1: If you shopped at the #Gilroy #Costco Jan 18 4-6pm, you may have been exposed to #measles #KTVU http://t.co/0LZEJMywCG",
+            "toponyms": [
+                {
+                    "text": "Costco",
+                    "start": 50,
+                    "end": 56,
+                    "loc_id": "5352214"
+                }
+            ]
+        },
+        {
+            "filename": "489047013275598849.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Press Release // #Gaza: Water in the line of fire - Accute water crisis looms http://t.co/OiBIVW9haR via @ICRC http://t.co/Er1JPwIQWs",
+            "toponyms": [
+                {
+                    "text": "Gaza",
+                    "start": 18,
+                    "end": 22,
+                    "loc_id": "281132"
+                }
+            ]
+        },
+        {
+            "filename": "561422162330787840.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Mercy set to open Joplin hospital four years after huge tornado: An EF5 tornado -- the strongest r... http://t.co/pTpQPmWVbc #healthcare",
+            "toponyms": [
+                {
+                    "text": "Joplin",
+                    "start": 18,
+                    "end": 24,
+                    "loc_id": "4392768"
+                }
+            ]
+        },
+        {
+            "filename": "555379082553475072.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @haveigotnews: Snow, wind &amp; ice in UK making the headlines this week. Earth and Fire refuse tour, citing 'artistic differences'.",
+            "toponyms": [
+                {
+                    "text": "UK",
+                    "start": 42,
+                    "end": 44,
+                    "loc_id": "2635167"
+                }
+            ]
+        },
+        {
+            "filename": "488503193823764482.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @grb45: AAP vol, today, staged a protest in Matiala at DJB D-Block as they wr not providing water to the people of Matiala. http://t.co/�",
+            "toponyms": [
+                {
+                    "text": "Matiala",
+                    "start": 47,
+                    "end": 54,
+                    "loc_id": "10164605"
+                },
+                {
+                    "text": "Matiala",
+                    "start": 118,
+                    "end": 125,
+                    "loc_id": "10164605"
+                }
+            ]
+        },
+        {
+            "filename": "531522781566238720.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @Gayane_RT: Fingers crossed for the ceasefire between Kiev and the rebels supposed to take effect tomorrow if terms agreed in Minsk",
+            "toponyms": [
+                {
+                    "text": "Kiev",
+                    "start": 57,
+                    "end": 61,
+                    "loc_id": "703448"
+                },
+                {
+                    "text": "Minsk",
+                    "start": 129,
+                    "end": 134,
+                    "loc_id": "625144"
+                }
+            ]
+        },
+        {
+            "filename": "510472964593442817.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "The ignorant comments i read when a citizen from Guinea suspected of ebola was in SA are the same as of my fellow African from Nigeria.",
+            "toponyms": [
+                {
+                    "text": "Guinea",
+                    "start": 49,
+                    "end": 55,
+                    "loc_id": "2420477"
+                },
+                {
+                    "text": "SA",
+                    "start": 82,
+                    "end": 84,
+                    "loc_id": "953987"
+                },
+                {
+                    "text": "Nigeria",
+                    "start": 127,
+                    "end": 134,
+                    "loc_id": "2328926"
+                }
+            ]
+        },
+        {
+            "filename": "558655602730467329.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "Measles outbreak grows to 75 cases.\nCoverage of the Disneyland-based measles outbreak continues, with two... http://t.co/8SNfNtIkls",
+            "toponyms": [
+                {
+                    "text": "Disneyland",
+                    "start": 52,
+                    "end": 62,
+                    "loc_id": "5343229"
+                }
+            ]
+        },
+        {
+            "filename": "555034019403169792.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @MPSHarrow: Reportedly the Photo of the Tornado that struck today in #Harrow from @sweetballs101: http://t.co/QT82jftYfV",
+            "toponyms": [
+                {
+                    "text": "Harrow",
+                    "start": 73,
+                    "end": 79,
+                    "loc_id": "3333151"
+                }
+            ]
+        },
+        {
+            "filename": "517525047700103168.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "My heart goes out to all those affected by the recent earthquake and tsunami disasters in Japan...",
+            "toponyms": [
+                {
+                    "text": "Japan",
+                    "start": 90,
+                    "end": 95,
+                    "loc_id": "1861060"
+                }
+            ]
+        },
+        {
+            "filename": "503330933408145409.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "The malaria mines of Venezuela http://t.co/FN474HtUey",
+            "toponyms": [
+                {
+                    "text": "Venezuela",
+                    "start": 21,
+                    "end": 30,
+                    "loc_id": "3625428"
+                }
+            ]
+        },
+        {
+            "filename": "507303583297982464.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "U.N. denies Golan peacekeepers ordered to hand arms to Syria rebels: UNITED NATIONS (Reuters) - The U.N. peace... http://t.co/sNQ966OuKv",
+            "toponyms": [
+                {
+                    "text": "Syria",
+                    "start": 55,
+                    "end": 60,
+                    "loc_id": "163843"
+                }
+            ]
+        },
+        {
+            "filename": "548405602699853824.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @fem_muzzammil: Blaming allahs wrath for flood when the drainage system in kelantan is one of the worst ,stupid ulamak and ustazs should�",
+            "toponyms": [
+                {
+                    "text": "kelantan",
+                    "start": 78,
+                    "end": 86,
+                    "loc_id": "1733044"
+                }
+            ]
+        },
+        {
+            "filename": "548857078748438528.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @LANow: After devastating earthquake in Napa, geologists flock to the area to study fault lines' damage potential http://t.co/iv4JxcjBEB",
+            "toponyms": [
+                {
+                    "text": "Napa",
+                    "start": 43,
+                    "end": 47,
+                    "loc_id": "5376095"
+                }
+            ]
+        },
+        {
+            "filename": "521768197352345600.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @tyler_whetstone: Crazy photo of the tornado reported in Ramer, TN. Submitted to @3onyourside in Memphis. http://t.co/NvblkVaED9",
+            "toponyms": [
+                {
+                    "text": "Ramer",
+                    "start": 60,
+                    "end": 65,
+                    "loc_id": "4652044"
+                },
+                {
+                    "text": "TN",
+                    "start": 67,
+                    "end": 69,
+                    "loc_id": "4662168"
+                },
+                {
+                    "text": "Memphis",
+                    "start": 100,
+                    "end": 107,
+                    "loc_id": "4641239"
+                }
+            ]
+        },
+        {
+            "filename": "511804425900261376.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @frankie_grande2: My prayers are with the ones that were involved in the earthquake in Japan sharing my light with you guys.",
+            "toponyms": [
+                {
+                    "text": "Japan",
+                    "start": 90,
+                    "end": 95,
+                    "loc_id": "1861060"
+                }
+            ]
+        },
+        {
+            "filename": "506925786776227840.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @WSJ: #Ebola is ravaging Liberia. But with secret island burials, nobody knows the true death toll. http://t.co/7sd7XNqeS1",
+            "toponyms": [
+                {
+                    "text": "Liberia",
+                    "start": 28,
+                    "end": 35,
+                    "loc_id": "2275384"
+                }
+            ]
+        },
+        {
+            "filename": "540475750978433025.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "2014 is the third consecutive year of record low tornado activity in the US\nhttp://t.co/YJiikOrVcr http://t.co/0ccL2jexFM",
+            "toponyms": [
+                {
+                    "text": "US",
+                    "start": 73,
+                    "end": 75,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "512331310908833794.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @dailykos: Even the CIA doesn't buy the administration's bull on Syria rebels http://t.co/eqwzPg2G2d",
+            "toponyms": [
+                {
+                    "text": "Syria",
+                    "start": 68,
+                    "end": 73,
+                    "loc_id": "163843"
+                }
+            ]
+        },
+        {
+            "filename": "557207636144566273.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @astroehlein: Madness: #Kenya police fire tear gas at children protesting the sale of their playground http://t.co/jfb77PVDsA http://t.c�",
+            "toponyms": [
+                {
+                    "text": "Kenya",
+                    "start": 27,
+                    "end": 32,
+                    "loc_id": "192950"
+                }
+            ]
+        },
+        {
+            "filename": "547587657480413185.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "First Conviction in Sierra Leone Under Ebola Laws: A village chief has become the first person in Sierra Leone... http://t.co/GlQ3v9wL4c",
+            "toponyms": [
+                {
+                    "text": "Sierra Leone",
+                    "start": 20,
+                    "end": 32,
+                    "loc_id": "2403846"
+                },
+                {
+                    "text": "Sierra Leone",
+                    "start": 98,
+                    "end": 110,
+                    "loc_id": "2403846"
+                }
+            ]
+        },
+        {
+            "filename": "491885567219494913.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @alexbkane: NYPD officer looks on as New York Jews occupy Friends of the IDF office in Manhattan to protest #gaza assault http://t.co/S1�",
+            "toponyms": [
+                {
+                    "text": "New York",
+                    "start": 40,
+                    "end": 48,
+                    "loc_id": "5128638"
+                },
+                {
+                    "text": "Manhattan",
+                    "start": 90,
+                    "end": 99,
+                    "loc_id": "5125771"
+                }
+            ]
+        },
+        {
+            "filename": "531129381360795648.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @iran_policy: #MaryamRajavi:#Iran reg.is the Godfather of Extremism&amp; #terrorism &amp;exports its violence to #Iraq, #Syria &amp;elsewhere http:/�",
+            "toponyms": [
+                {
+                    "text": "Iraq",
+                    "start": 117,
+                    "end": 121,
+                    "loc_id": "99237"
+                },
+                {
+                    "text": "Syria",
+                    "start": 124,
+                    "end": 129,
+                    "loc_id": "163843"
+                }
+            ]
+        },
+        {
+            "filename": "490452586773106688.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @MaximEristavi: Ukraine accuses rebels of looting #MH17 crash site.\n@mikeybbq of OSCE on-the-ground group says: 'We're not in the positi�",
+            "toponyms": [
+                {
+                    "text": "Ukraine",
+                    "start": 19,
+                    "end": 26,
+                    "loc_id": "690791"
+                }
+            ]
+        },
+        {
+            "filename": "522025490920792064.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @diazcayeros: Check out website Micah Gell-Redman great work on the political economy of malaria eradication in Mexico and the US http:/�",
+            "toponyms": [
+                {
+                    "text": "Mexico",
+                    "start": 115,
+                    "end": 121,
+                    "loc_id": "3996063"
+                },
+                {
+                    "text": "US",
+                    "start": 130,
+                    "end": 132,
+                    "loc_id": "6252001"
+                }
+            ]
+        },
+        {
+            "filename": "536248966007230464.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "@inna_ro sorry,Romania was the earthquake, to get past",
+            "toponyms": [
+                {
+                    "text": "Romania",
+                    "start": 15,
+                    "end": 22,
+                    "loc_id": "798549"
+                }
+            ]
+        },
+        {
+            "filename": "537108679020253184.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "RT @The_First_Stone: Protest in Chicago! Police clashing with protestors on Wabash because of the Missouri verdict!? Your fuckin kidding me�",
+            "toponyms": [
+                {
+                    "text": "Chicago",
+                    "start": 32,
+                    "end": 39,
+                    "loc_id": "4887398"
+                },
+                {
+                    "text": "Wabash",
+                    "start": 76,
+                    "end": 82,
+                    "loc_id": "4915659"
+                },
+                {
+                    "text": "Missouri",
+                    "start": 98,
+                    "end": 106,
+                    "loc_id": "4398678"
+                }
+            ]
+        },
+        {
+            "filename": "507455778374971393.txt",
+            "spacy_model": "en_core_web_trf",
+            "text": "NWS FGF has issued a Tornado Warning  for the following areas: Cass-ND, Ransom-ND &amp; Richland-ND until 03:00 AM PDT Thu Sep 4.",
+            "toponyms": [
+                {
+                    "text": "Cass",
+                    "start": 63,
+                    "end": 67,
+                    "loc_id": "5058559"
+                },
+                {
+                    "text": "Richla",
+                    "start": 88,
+                    "end": 94,
+                    "loc_id": null
+                }
+            ]
+        }
+    ]
+}
