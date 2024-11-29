@@ -179,9 +179,10 @@ In the tutorial, we will use two spaCy models for English texts.
    python -m spacy download en_core_web_trf
    ```
 
+You can now load the package via spacy.load('en_core_web_sm')
 ### 6. Set Up the Gazetteer
 
-For this workshop, we'll use the GeoNames gazetteer:
+For this workshop, we'll use the GeoNames gazetteer (dictionary for placenames):
 
 ```bash
 python -m geoparser download geonames
